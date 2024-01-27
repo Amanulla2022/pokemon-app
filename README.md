@@ -21,7 +21,7 @@ JavaScript: For dynamic content creation and API calls.
 PokeAPI: To fetch Pokémon data.
 
 ### How to Use
-Visit the GeekterMon Web App (replace # with the actual link when deployed).
+Visit the GeekterMon Web App. https://amanulla2022.github.io/pokemon-app/
 Use the type dropdown to filter Pokémon by type.
 Enter a Pokémon name in the search bar to find a specific Pokémon.
 Click the "Filter by type" button to apply the type filter.
